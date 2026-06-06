@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const const BOT_TOKEN = "8839247627:AAHp3sph_00zVn7GMp_IFJ4kSv3CfqYHJHE";
+const BOT_TOKEN = "8839247627:AAHp3sph_00zVn7GMp_IFJ4kSv3CfqYHJHE";
 const CHAT_ID = "1312627565";
 
 const BG_SHAPES = [
